@@ -10,7 +10,7 @@ Nele foi possivel ter conhecimentos fundamentais de HTML, CSS e JavaScript.
 
 [BeautySalon - Petrus Borges](https://petrusborges-beautysalon.netlify.app)
 
-![ezgif com-gif-maker (1)](https://user-images.githubusercontent.com/105453766/168395457-2152dc05-e4c0-45c0-b283-2f9e23629fb6.gif)
+![ezgif com-gif-maker](https://user-images.githubusercontent.com/105453766/169511338-8f9a8ef3-c9cb-48b7-88ad-fab313b9915c.gif)
 
 ## 🛠️ Built with
 
