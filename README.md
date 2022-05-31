@@ -5,8 +5,8 @@ sports shoes company!
 
 ## 📋 Project
 
-Este projeto é resultado de participação de uma aula no DesignCourse 🚀.
-Nele foi possivel ter conhecimentos fundamentais de HTML, CSS e JavaScript.
+This project is the result of participating in a class on DesignCourse 🚀. 
+It was possible to have fundamental knowledge of HTML, CSS and JavaScript.
 
 [ShoeBrand - Petrus Borges](https://petrusborges-shoebrand.netlify.app)
 
